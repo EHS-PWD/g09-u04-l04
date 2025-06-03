@@ -62,36 +62,6 @@ Your `README.md` file **must include** the following:
 
 ---
 
-### 📁 **Sample Format (Markdown Preview):**
-
-```markdown
-# Stranger Things
-
-## Why I Love This Show
-
-Stranger Things is a sci-fi thriller that combines mystery, nostalgia, and supernatural horror. Set in the 1980s, it features a group of kids trying to uncover dark government secrets and fight off creatures from another dimension.
-
-### Main Characters
-
-- Eleven
-- Mike
-- Dustin
-- Lucas
-- Will
-
-### Top 3 Episodes
-
-1. The Upside Down
-2. The Mind Flayer
-3. The Battle of Starcourt
-
-Check out more on the [official Stranger Things page](https://www.netflix.com/strangerthings).
-
-![Stranger Things Poster](https://static0.srcdn.com/wordpress/wp-content/uploads/2023/03/stranger-things-season-4-poster.jpeg)
-```
-
----
-
 ### 📝 **Submission Instructions:**
 
 1. Ensure your file is saved as `README.md` in your `tv-show-markdown` folder.
